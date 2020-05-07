@@ -1,0 +1,4 @@
+﻿  AppMain.cpp
+C:\Users\Oriol\source\repos\GameAppC++\GameAppC++\AppMain.cpp(80,43): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\Oriol\source\repos\GameAppC++\GameAppC++\AppMain.cpp(80,43): message : los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+  GameAppC++.vcxproj -> C:\Users\Oriol\source\repos\GameAppC++\Debug\GameAppC++.exe
